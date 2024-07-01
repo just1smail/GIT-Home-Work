@@ -15,10 +15,10 @@ const Maryam = () => {
       <div className='w-[95%] m-auto border-t-2 border-gray-300 mt-5 mb-[60px]'></div>
       <div className='w-[90%] m-auto relative'>
         <img className='w-full' src="/src/assets/photo/Rectangle 4192.png" alt="Background" />
-        <h1 className='absolute top-[60px] left-[590px] text-4xl font-semibold text-white'>{t("Our Pricing")}</h1>
-        <img className='absolute top-[70px] left-[500px]' src="/src/assets/photo/Vector (8).png" alt="Decoration" />
-        <img className='absolute top-[140px] left-[1170px]' src="/src/assets/photo/01.png" alt="Decoration" />
-        <img className='absolute top-[100px] left-[158px] w-[80%]' src="/src/assets/photo/17-Home V1 1.png" alt="Decoration" />
+        <h1 className='absolute top-[60px] left-[600px] text-4xl font-semibold text-white'>{t("Our Pricing")}</h1>
+        <img className='absolute top-[60px] left-[500px]' src="/src/assets/photo/Vector (8).png" alt="Decoration" />
+        <img className='absolute top-[110px] left-[1170px]' src="/src/assets/photo/01.png" alt="Decoration" />
+        <img className='absolute top-[90px] left-[158px] w-[80%]' src="/src/assets/photo/17-Home V1 1.png" alt="Decoration" />
         <img className='absolute top-[830px] left-[198px]' src="/src/assets/photo/02.png" alt="Decoration" />
       </div>
       <div className='mt-[600px]'>
