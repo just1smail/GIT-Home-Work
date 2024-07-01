@@ -12,5 +12,7 @@
     "prem" : "Premium Quality For Your Health",
     "pre1" : "Premium quality food is made with ingredients that are packed with essential vitamins, minerals.",
     "pre2" : "These foods promote overall wellness by support healthy digestion and boosting immunity",
-    "dow" : "Download"
+    "dow" : "Download",
+    "sort":"Sort By",
+    
 }
