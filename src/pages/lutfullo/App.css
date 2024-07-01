@@ -1,0 +1,95 @@
+.left1{
+    background-image: url('/src/pages/lutfullo/image/Mask Group.png');
+    border-radius: 18px;
+}
+.right1{
+    border-radius: 23px;
+    box-shadow: 10px 25px 60px 0px #005A6433;
+}
+.piza{
+    padding-top: 10px;
+}
+.foodItem{
+    box-shadow: 0px 14.71px 22.07px 0px #877DC840;
+    border-radius: 10px;
+}
+.hotItem{
+    border: 3.83px solid #FB471D80
+}
+#myRange {
+    -webkit-appearance: none;
+    width: 300px;
+    height: 10px;
+    background: linear-gradient(to right,  #6C5FBC, blue);
+    border-radius: 5px; /* Задаем скругленные углы */
+}
+  
+  
+  #myRange::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background:#6C5FBC;
+    width: 25px;
+
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 4.4px solid #BBB6D7
+  }
+
+  .btn{
+    border-radius: 13px;
+    background-color: #6C5FBC;
+  }
+  .search{
+    border-radius: 13px;
+    padding-left: 40px;
+  }
+  .btnFood{
+    border: 2.17px solid #6C5FBC;
+    width: 397px;
+    height: 75px;
+    color: #6C5FBC;
+    font-weight: bold;
+    border-radius: 15.14px, 0px, 0px, 15.14px;
+  }
+
+  .btnResturent{
+    box-shadow: 0px 21.78px 48.41px 0px #D3D1D840;
+    width: 397px;
+    height: 75px;
+    font-weight: bold;
+    background-color: #6C5FBC;
+    color: white;
+    border-radius: 0px, 15.14px, 15.14px, 0px;
+  }
+
+  .item2{
+    border-radius: 30px;
+    border: 1.25px solid #F4F4F6;
+    box-shadow: 5.95px 71.35px 35.67px 0px #E5E5E5B2;
+    margin-left: 60px;
+  }
+
+  .btnHealth{
+    border-radius: 5px;
+  }
+  .btnCheck{
+    border-radius: 50%;
+  }
+  .item3{
+    border: 1.44px solid #F4F4F6;
+    box-shadow: 6.85px 82.25px 41.12px 0px #E5E5E5B2;
+    border-radius: 34px;
+  }
+  .btnPlus{
+    border-radius: 9px;
+  }
+
+  input:focus { outline: none; }
+
+  .topFinish{
+    padding-top: 100px;
+  }

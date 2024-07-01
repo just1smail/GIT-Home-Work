@@ -18,5 +18,35 @@
     "Purchases":" Покупки",
     "Via Dashboard":"Через панель управления",
     "Customer": "Отзывы Клиентов",
-    "Say": "Сказать"
+    "Say": "Сказать",
+  "SafiUllohTranslationJSON":{
+        "getSkidka": "ПОЛУЧИТЕ 50%",
+        "subscribe": "ПОДПИСАТЬСЯ",
+        "Latest": "Последние",
+        "Article": "Статьи",
+        "writenby": "Написано",
+        "textC1": "Как Заказать Еду?",
+        "textC2": "Как Отследить Заказ?"
+    
+    },
+    "Category":"Категория" ,
+    "Sort By":"Сортировать",
+    "Recomended":"Рекомендация",
+    "Fast Delivery":"Быстрая доставка",
+    "Most Popular":"Самые Популярные",
+    "Price":"Цена",
+    "Apply":"Применять",
+    "Food":"Еда",
+    "Resturent":"Ресторан",
+    "Search":"Поиск",
+    "Healthy":"Здоров",
+    "The Chicken King":"Куриный король",
+    "Swe Dishes":"Горячее блюдо",
+    "Frequently Asked":"Часто задаваемые вопросы",
+    "Questions":"Вопросы",
+    "How long does delivery take?":"Сколько времени занимает доставка?",
+    "Blog":"Блог",
+    "Pricing":"Ценообразование",
+    "About Us":"О Нас",
+    "Contact":"Контакты"
 }
