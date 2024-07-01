@@ -27,5 +27,22 @@
     "15 Minutes": "15 Minutes",
     "Email Address": "Email Address",
     "Food Rider": "Food Rider",
-    "David Smith": "David Smith"
+    "David Smith": "David Smith",
+    "Our Pricing":"Our Pricing",
+    "Control":"Control",
+    "Purchases":"Purchases",
+    "Via Dashboard":"Via Dashboard",
+    "Customer": "Customer",
+    "Say": "Say",
+    "SafiUllohTranslationJSON":{
+        "getSkidka": "GET 50%",
+        "subscribe": "SUBSCRIBE",
+        "Latest": "Latest",
+        "Article": "Article",
+        "writenby": "Writen By",
+        "textC1": "How To Order Food ?",
+        "textC2": "How To Track The Order ?"
+
+    } 
+    "sort":"Sort By"
 }

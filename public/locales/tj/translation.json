@@ -27,5 +27,20 @@
     "15 Minutes": "15 дақиқа",
     "Email Address": "Суроғаи электронӣ",
     "Food Rider": "Овозгардони хӯрок",
-    "David Smith": "Девид Смит"
+    "David Smith": "Девид Смит",
+    "Our Pricing":"Нархи мо",
+    "Control":"Назорат",
+    "Purchases":"Харидхо",
+    "Via Dashboard":"Тавассути панели идоракунӣ",
+    "Customer": "Мизоҷон",
+    "Say": "Мегӯянд",
+    "SafiUllohTranslationJSON":{
+        "getSkidka": "50% ГИРЕД",
+        "subscribe": "ОБУНА",
+        "Latest": "Мақолаҳои",
+        "Article": "Охирин",
+        "writenby": "Навишта шудааст",
+        "textC1": "Чӣ Тавр Фармоиш Додани Хӯрок?",
+        "textC2": "Чӣ Тавр Пайгирӣ Кардани Фармоиш?"
+    } 
 }
