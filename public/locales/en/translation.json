@@ -13,6 +13,21 @@
     "pre1" : "Premium quality food is made with ingredients that are packed with essential vitamins, minerals.",
     "pre2" : "These foods promote overall wellness by support healthy digestion and boosting immunity",
     "dow" : "Download",
+    "EATLY All Rights Reserved": "EATLY All Rights Reserved",
+    "SUBSCRIBE": "SUBSCRIBE",
+    "Reviev Payment": "Reviev Payment",
+    "Total": "Total",
+    "Delivery": "Delivery",
+    "Subtotal":"Subtotal",
+    "Apply": "Apply",
+    "Apply Caupon": "Apply Caupon",
+    "Pending": "Pending",
+    "Horizenal Road Stree 1178 California, USA": "Horizenal Road Stree 1178 California, USA",
+    "Your Address": "Your Address",
+    "15 Minutes": "15 Minutes",
+    "Email Address": "Email Address",
+    "Food Rider": "Food Rider",
+    "David Smith": "David Smith",
     "Our Pricing":"Our Pricing",
     "Control":"Control",
     "Purchases":"Purchases",
@@ -29,5 +44,5 @@
         "textC2": "How To Track The Order ?"
 
     } 
-    "sort":"Sort By",
+    "sort":"Sort By"
 }
