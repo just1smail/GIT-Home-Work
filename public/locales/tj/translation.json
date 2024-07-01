@@ -22,6 +22,35 @@
     "Copyright 2022": "© 2022",
     "Find Foods With Love": "Хандаи хӯшнавсалиро пайдо кунед",
     "Eatly Is The Food Delivery Dashboard And Having More Than 2K+ Dishes Including Asian, Chinese, Italians And Many More. Our Dashboard Helps You To Manage Orders And Money.": "Eatly - ин шиносоии иловаи доставкаи хӯрок аст ва бисёр аз 2К+ навъи маҳсулот, ки шомо аз воситаи он тавассути кишварҳои Осиёӣ, Чинӣ, Итолиён ва бисёр дигар, метавонед пахш кунед. Иловаи мо барои муносибат ва пулё равонро муносибат медиҳад.",
-    "Create A New Account?": "Бақайдгирии хисоби нав иҷоза кардан?"
-
+    "Create A New Account?": "Бақайдгирии хисоби нав иҷоза кардан?",
+    "EATLY All Rights Reserved": "EATLY Ҳама ҳуқуқҳо маҳфуз аст",
+    "SUBSCRIBE": "ИНТИХОБӢ",
+    "Reviev Payment": "Маблағро муайян кунед",
+    "Total": "Ҷами",
+    "Delivery": "Пасовандӣ",
+    "Subtotal": "Ҳисоби ҳамён",
+    "Apply": "Истифода баред",
+    "Apply Caupon": "Купонро истифода баред",
+    "Pending": "Маъруф",
+    "Horizenal Road Stree 1178 California, USA": "Вилояти Калифорния, шаҳри Калифорния 1178",
+    "Your Address": "Суроғаи шумо",
+    "15 Minutes": "15 дақиқа",
+    "Email Address": "Суроғаи электронӣ",
+    "Food Rider": "Овозгардони хӯрок",
+    "David Smith": "Девид Смит",
+    "Our Pricing":"Нархи мо",
+    "Control":"Назорат",
+    "Purchases":"Харидхо",
+    "Via Dashboard":"Тавассути панели идоракунӣ",
+    "Customer": "Мизоҷон",
+    "Say": "Мегӯянд",
+    "SafiUllohTranslationJSON":{
+        "getSkidka": "50% ГИРЕД",
+        "subscribe": "ОБУНА",
+        "Latest": "Мақолаҳои",
+        "Article": "Охирин",
+        "writenby": "Навишта шудааст",
+        "textC1": "Чӣ Тавр Фармоиш Додани Хӯрок?",
+        "textC2": "Чӣ Тавр Пайгирӣ Кардани Фармоиш?"
+    } 
 }
